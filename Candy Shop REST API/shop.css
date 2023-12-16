@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    height: 50%;
+    background-image: url("https://www.countrykitchensa.com/catalog/images/70/70-3021.jpg");
+    background-size:cover;
+
+}
+
+input {
+    margin: 10px 20px;
+    border-color: green;
+    border-radius: 10px;
+    box-sizing: 50px;
+}
+label{
+    margin-left: 10px;
+    margin-bottom: 2px;
+    font-weight: bold;
+    color: green;
+    font-size: larger;
+}
+button{
+    margin: 10px;
+}
+
+form{
+    background-color: rgb(176, 235, 156);
+}
+ul{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkgreen
+}
